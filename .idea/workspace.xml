@@ -2,20 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="75157d11-226a-4aad-905a-acf0ebe48028" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/App.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/header.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/index.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/routes/aurhorisation.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/routes/material.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/routes/table.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/testData.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/routes/aurhorisation.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/routes/aurhorisation.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,6 +38,7 @@
     <property name="nodejs_interpreter_path" value="node" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
     <property name="ts.external.directory.path" value="C:\Users\hp\AppData\Local\JetBrains\Toolbox\apps\WebStorm\ch-0\193.6494.34\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
   </component>
   <component name="RecentsManager">
@@ -84,22 +73,42 @@
       <updated>1675700652799</updated>
       <workItem from="1675700654883" duration="8882000" />
       <workItem from="1675782280535" duration="11431000" />
-      <workItem from="1675880053599" duration="14694000" />
+      <workItem from="1675880053599" duration="15492000" />
     </task>
+    <task id="LOCAL-00001" summary="initial commit">
+      <created>1675971117178</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1675971117178</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
   </component>
   <component name="WindowStateProjectService">
     <state x="690" y="263" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1675971068384">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
     <state x="690" y="263" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1032@0.0.1920.1032" timestamp="1675971068384" />
+    <state x="583" y="24" key="CommitChangelistDialog2" timestamp="1675971116486">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="583" y="24" key="CommitChangelistDialog2/0.0.1920.1032@0.0.1920.1032" timestamp="1675971116486" />
     <state x="740" y="271" key="FileChooserDialogImpl" timestamp="1675962358434">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
     <state x="740" y="271" key="FileChooserDialogImpl/0.0.1920.1032@0.0.1920.1032" timestamp="1675962358434" />
+    <state x="828" y="410" width="264" height="262" key="Github.ShareDialog" timestamp="1675971500946">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="828" y="410" width="264" height="262" key="Github.ShareDialog/0.0.1920.1032@0.0.1920.1032" timestamp="1675971500946" />
     <state width="1899" height="258" key="GridCell.Tab.0.bottom" timestamp="1675971019535">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
@@ -116,6 +125,14 @@
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
     <state width="1899" height="258" key="GridCell.Tab.0.right/0.0.1920.1032@0.0.1920.1032" timestamp="1675971019535" />
+    <state x="461" y="158" key="SettingsEditor" timestamp="1675971487243">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="461" y="158" key="SettingsEditor/0.0.1920.1032@0.0.1920.1032" timestamp="1675971487243" />
+    <state x="552" y="230" key="Vcs.Push.Dialog.v2" timestamp="1675971520513">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="552" y="230" key="Vcs.Push.Dialog.v2/0.0.1920.1032@0.0.1920.1032" timestamp="1675971520513" />
     <state x="646" y="90" width="627" height="852" key="find.popup" timestamp="1675963569171">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
